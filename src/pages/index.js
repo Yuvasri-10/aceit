@@ -22,7 +22,7 @@ export default function Home() {
       <section style={welcomeSection}>
         <h2 style={sectionTitle}>Welcome to AceIt</h2>
         <p style={sectionText}>
-          Stay on track and crush your monthly goals with ease! <br />
+         
           Organize your tasks by category, check progress daily, and celebrate consistency. <br />
           Ready to get started?
         </p>
